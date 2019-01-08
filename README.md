@@ -1,8 +1,15 @@
 # cardwallet_app
 
-A new Flutter project.
+A Card Wallet Flutter project.
 
-## Getting Started
+<img src="https://github.com/daniorca/cardwallet/blob/master/screenshots/manage_cards_01.gif" width="250">
 
-For help getting started with Flutter, view our online
+## Diseño original-prototipo en Dribble por Caler Edwards
+https://dribbble.com/CalerEdwards
+
+#### Concepto Principal Utilizado
+* BLoC Pattern
+
+## Documentacion
+Para obtener ayuda para comenzar con Flutter, vea nuestro sitio web.
 [documentation](https://flutter.io/).
