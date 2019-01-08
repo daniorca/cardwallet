@@ -2,7 +2,7 @@
 
 A Card Wallet Flutter project.
 
-<img src="https://github.com/daniorca/cardwallet/blob/master/screenshots/manage_cards_01.gif" width="250">
+<img src="https://github.com/daniorca/cardwallet/blob/master/screenshots/manage_cards_01.gif" width="500">
 
 ## Diseño original-prototipo en Dribble por Caler Edwards
 https://dribbble.com/CalerEdwards
